@@ -1,1 +1,1 @@
-# Spam-mail-Prediction_SVM
+# Spam mail Prediction_SVM
